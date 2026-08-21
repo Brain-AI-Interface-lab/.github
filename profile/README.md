@@ -8,8 +8,10 @@ The human and primate brain possesses an astonishing ability to continuously pre
 ### Research Areas
 Our team focuses on three highly interconnected, multidisciplinary research areas:
 * **Systems Neuroscience & Neural Dynamics:** We intensively analyze single neural spikes recorded from the dorsolateral prefrontal cortex (DLPFC) and primary motor cortex (M1) of non-human primates. Recent studies have shown that the interaction and directed information flow between DLPFC and M1 are critical for cognitive control, decision-making, and motor planning. Utilizing information theory and machine learning, we quantitatively decode the neural dynamic causality and information flow between these brain regions.
+  
 * **Brain-Computer Interfaces (BCI):** Building upon our decoded models of neural dynamics, we develop advanced BCI algorithms that allow users to control external environments or computers using only their thoughts. We focus on creating robust systems that can overcome neural signal noise and extract user intentions accurately in real-time.
+  
 * **Brain-inspired AI Modeling:** By borrowing the efficient sensory-motor integration and learning mechanisms of the primate brain, we design novel artificial intelligence architectures. Brain-inspired AI presents a powerful alternative to conventional deep learning models, offering superior data efficiency and adaptability.
 
 ### Join Our Team
-We are always looking for highly motivated M.S., Ph.D., and undergraduate students to join us at the forefront of neuroscience, computer engineering, and AI. If you are passionate about data analysis, programming (e.g., Python, MATLAB), and unlocking the secrets of the brain to lead future technologies, we strongly encourage you to apply.
+We are always looking for highly motivated **M.S., Ph.D., and undergraduate students** to join us at the forefront of neuroscience, computer engineering, and AI. If you are passionate about **data analysis, programming (e.g., Python, MATLAB)**, and unlocking the secrets of the brain to lead future technologies, we strongly encourage you to apply.
